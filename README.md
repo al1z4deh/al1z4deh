@@ -6,9 +6,9 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🎓 Certifications:
-![OSCP (Offensive Security Certified Professional)]![image](https://github.com/al1z4deh/al1z4deh/assets/90620429/3a744623-e867-4f5b-be5c-2a4014942721)
-![eJPT (eLearnSecurity Junior Penetration Tester)](https://d2w88u8h44ahhm.cloudfront.net//assets/images/certification/ejpt_certificate_sm.png)
-![CEH (Certified Ethical Hacker - Practical)](https://miro.medium.com/v2/resize:fit:352/1*AACYGebMqJXYj3jyHaDP7g.png)
+- <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP (Offensive Security Certified Professional)" width="100" height="100">
+- <img src="https://d2w88u8h44ahhm.cloudfront.net//assets/images/certification/ejpt_certificate_sm.png" alt="eJPT (eLearnSecurity Junior Penetration Tester)" width="100" height="100">
+- <img src="https://miro.medium.com/v2/resize:fit:352/1*AACYGebMqJXYj3jyHaDP7g.png" alt="CEH (Certified Ethical Hacker - Practical)" width="100" height="100">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=al1z4deh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
