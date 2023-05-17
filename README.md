@@ -6,9 +6,9 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🎓 Certifications:
-- **OSCP (Offensive Security Certified Professional)**
-- **eJPT (eLearnSecurity Junior Penetration Tester)**
-- **CEH (Certified Ethical Hacker - Practical)**
+## 🎓 Certifications:
+![OSCP (Offensive Security Certified Professional)](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=offensive-security&logoColor=red) ![eJPT (eLearnSecurity Junior Penetration Tester)](https://img.shields.io/badge/eJPT-%23000000.svg?style=for-the-badge&logo=elearnsecurity&logoColor=red) ![CEH (Certified Ethical Hacker - Practical)](https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=red)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=al1z4deh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=al1z4deh&theme=dark&hide_border=false)<br/>
