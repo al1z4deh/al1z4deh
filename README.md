@@ -6,7 +6,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🎓 Certifications:
-- ![OSCP (Offensive Security Certified Professional)](https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=offensive-security&logoColor=red)
+- ![OSCP (Offensive Security Certified Professional)]([https://img.shields.io/badge/OSCP-%23000000.svg?style=for-the-badge&logo=offensive-security&logoColor=red](https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png))
 - ![eJPT (eLearnSecurity Junior Penetration Tester)](https://img.shields.io/badge/eJPT-%23000000.svg?style=for-the-badge&logo=elearnsecurity&logoColor=red)
 - ![CEH (Certified Ethical Hacker - Practical)](https://img.shields.io/badge/CEH-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=red)
 
