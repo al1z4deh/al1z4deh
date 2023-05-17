@@ -4,6 +4,11 @@
 
 # 💻 Tech Stack:
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 🎓 Certifications:
+- **OSCP (Offensive Security Certified Professional)**
+- **eJPT (eLearnSecurity Junior Penetration Tester)**
+- **CEH (Certified Ethical Hacker - Practical)**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=al1z4deh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=al1z4deh&theme=dark&hide_border=false)<br/>
@@ -18,5 +23,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/al1z4deh) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
