@@ -7,7 +7,7 @@
 
 ## 🎓 Certifications:
 <div align="center">
-  <img src="[https://miro.medium.com/v2/resize:fit:352/1*AACYGebMqJXYj3jyHaDP7g.png](https://ddd.cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-analyst-course.png)" alt="CRTA (Certified Red Team Analyst)" width="150" height="150">
+  <img src="https://ddd.cyberwarfare.live/wp-content/uploads/2023/05/certified-red-team-analyst-course.png" alt="CRTA (Certified Red Team Analyst)" width="150" height="150">
   <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP (Offensive Security Certified Professional)" width="150" height="150">
   <img src="https://d2w88u8h44ahhm.cloudfront.net//assets/images/certification/ejpt_certificate_sm.png" alt="eJPT (eLearnSecurity Junior Penetration Tester)" width="150" height="150">
   <img src="https://miro.medium.com/v2/resize:fit:352/1*AACYGebMqJXYj3jyHaDP7g.png" alt="CEH (Certified Ethical Hacker - Practical)" width="150" height="150">
